@@ -1,0 +1,4 @@
+Math:['Maxim', 'Pavel', 'David']
+Science:['Maxim', 'Daria', 'David']
+Art:['Maxim', 'Daria']
+History:['Pavel', 'Daria']

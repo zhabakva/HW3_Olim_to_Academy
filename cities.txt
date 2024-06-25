@@ -1,0 +1,187 @@
+New York:8175133
+Los Angeles:3792621
+Chicago:2695598
+Houston:2129784
+Phoenix:1445632
+Philadelphia:1526006
+San Antonio:1327407
+San Diego:1307402
+Dallas:1197816
+San Jose:945942
+Austin:790390
+Jacksonville:821784
+Fort Worth:741206
+Columbus:787033
+San Francisco:805235
+Charlotte:731424
+Indianapolis:820445
+Seattle:608660
+Denver:600158
+Washington:601723
+Boston:617594
+El Paso:649121
+Nashville:601222
+Detroit:713777
+Memphis:646889
+Portland:583776
+Oklahoma City:579999
+Las Vegas:583756
+Louisville:597337
+Baltimore:620961
+Milwaukee:594833
+Albuquerque:545852
+Tucson:520116
+Fresno:494665
+Sacramento:466488
+Kansas City:459787
+Long Beach:462257
+Mesa:439041
+Virginia Beach:437994
+Atlanta:420003
+Colorado Springs:416427
+Omaha:408958
+Raleigh:403892
+Miami:399457
+Cleveland:396815
+Tulsa:391906
+Oakland:390724
+Minneapolis:382578
+Wichita:382368
+Arlington:365438
+Bakersfield:347483
+New Orleans:343829
+Honolulu:337256
+Anaheim:336265
+Tampa:335709
+Aurora:325078
+Santa Ana:324528
+St. Louis:319294
+Pittsburgh:305704
+Corpus Christi:305215
+Riverside:303871
+Cincinnati:296943
+Lexington:295803
+Anchorage:291826
+Stockton:291707
+Toledo:287208
+Saint Paul:285068
+Newark:277140
+Greensboro:269666
+Buffalo:261310
+Plano:259841
+Lincoln:258379
+Henderson:257729
+Fort Wayne:253691
+Jersey City:247597
+St. Petersburg:244769
+Chula Vista:243916
+Norfolk:242803
+Orlando:238300
+Chandler:236123
+Laredo:236091
+Madison:233209
+Winston-Salem:229617
+Lubbock:229573
+Baton Rouge:229493
+Durham:228330
+Garland:226876
+Glendale:226721
+Reno:225221
+Hialeah:224669
+Chesapeake:222209
+Scottsdale:217385
+North Las Vegas:216961
+Irving:216290
+Fremont:214089
+Irvine:212375
+Birmingham:212237
+Rochester:210565
+San Bernardino:209924
+Spokane:208916
+Gilbert:208453
+Arlington:207627
+Montgomery:205764
+Boise:205671
+Richmond:204214
+Des Moines:203433
+Modesto:201165
+Fayetteville:200564
+Shreveport:199311
+Akron:199110
+Tacoma:198397
+Aurora:197899
+Oxnard:197899
+Fontana:196069
+Yonkers:195976
+Augusta:195844
+Mobile:195111
+Little Rock:193524
+Moreno Valley:193365
+Glendale:191719
+Amarillo:190695
+Huntington Beach:189992
+Columbus:189885
+Grand Rapids:188040
+Salt Lake City:186440
+Tallahassee:181376
+Worcester:181045
+Newport News:180719
+Huntsville:180105
+Knoxville:178874
+Providence:178042
+Santa Clarita:176320
+Grand Prairie:175396
+Brownsville:175023
+Jackson:173514
+Overland Park:173372
+Garden Grove:170883
+Santa Rosa:167815
+Chattanooga:167674
+Oceanside:167086
+Fort Lauderdale:165521
+Rancho Cucamonga:165269
+Port St. Lucie:164603
+Ontario:163924
+Vancouver:161791
+Tempe:161719
+Springfield:159498
+Lancaster:156633
+Eugene:156185
+Pembroke Pines:154750
+Salem:154637
+Cape Coral:154305
+Peoria:154065
+Sioux Falls:153888
+Springfield:153060
+Elk Grove:153015
+Rockford:152871
+Palmdale:152750
+Corona:152374
+Salinas:150441
+Pomona:149058
+Pasadena:149043
+Joliet:147433
+Paterson:146199
+Kansas City:145786
+Torrance:145438
+Syracuse:145170
+Bridgeport:144229
+Hayward:144186
+Fort Collins:143986
+Escondido:143911
+Lakewood:142980
+Naperville:141853
+Dayton:141527
+Hollywood:140768
+Sunnyvale:140081
+Alexandria:139966
+Mesquite:139824
+Hampton:137436
+Pasadena:137122
+Orange:136416
+Savannah:136286
+Cary:135234
+Fullerton:135161
+Warren:134056
+Clarksville:132929
+McKinney:131117
